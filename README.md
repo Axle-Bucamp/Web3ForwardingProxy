@@ -1,4 +1,3 @@
----
 
 # Sample Hardhat Project
 
